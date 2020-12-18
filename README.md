@@ -1,2 +1,2 @@
 # RepeatingKeyword
-Program for Assistance with Repeating Keywords
+Program for Assistance with Repeating Keywords within Cryptography
